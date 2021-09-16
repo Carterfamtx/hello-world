@@ -1,2 +1,2 @@
 # hello-world
-Hello my first day of modding
+Hello my first day of trying to code
